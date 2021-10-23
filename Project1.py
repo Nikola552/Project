@@ -1,3 +1,3 @@
-print("My name is Nikola I'm from Macedonia")
+print("This is my project")
 
 #this is just for practise
