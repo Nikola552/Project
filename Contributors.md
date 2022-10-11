@@ -6,7 +6,7 @@ This file lists all individuals having contributed content to the repository.
 
 <b>Fields</b>: GitHub handle
 
-Example line: `@johndoe, John Doe,
+Example line: `@johndoe`
 
 - `@StefanTrsunov`
 - `@Nikola552`
