@@ -1,12 +1,11 @@
 ## Contributors:
 
-[]: # This file lists all individuals having contributed content to the repository.
-[]: #
-[]: # Format: One line per contributor.
-[]: # Fields: GitHub handle
-[]: # Field separator: comma (,).
+This file lists all individuals having contributed content to the repository.
+
+<b>Format<b> : One line per contributor.
+<b>Fields</b>: GitHub handle
 []: # Example line: `@johndoe, John Doe,
 
-- @StefanTrsunov
-- @Nikola552
-- @Asyncdeveloper245
+- `@StefanTrsunov
+- `@Nikola552
+- `@Asyncdeveloper245
